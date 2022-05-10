@@ -80,8 +80,12 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-block: header-3
+block: header-1
 logo: ''
+headline: Mapping Language
+slug: cs_land
+content: "<strong>asdfasfd</strong>"
+navigation: []
 
 ---
-#### template
+### template
